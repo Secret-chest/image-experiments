@@ -1,5 +1,5 @@
 from PIL import Image, ImageShow, ImagePalette
-image = "sampleImages/EiffelTower.jpg"
+image = "sampleImages/AvenueDesChamps.jpg"
 viewImages = True
 
 # Open image

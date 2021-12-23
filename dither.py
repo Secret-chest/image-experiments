@@ -1,6 +1,6 @@
 from PIL import Image, ImageShow, ImagePalette
-image = "sampleImages/AvenueDesChamps.jpg"
-viewImages = True
+image = "sampleImages/EiffelTower.jpg"
+viewImages = False
 
 # Open image
 with Image.open(image) as inputImage:

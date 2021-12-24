@@ -5,4 +5,5 @@ Attribution for images used:
 * Torsade de Pointes / Autun Théâtre romain / CC0-1.0
 * King of Hearts / Brooklyn Botanic Garden New York May 2015 / CC BY-SA 3.0
 * Matt Kieffer / Chicago skyline at night from 360 Chicago observation deck / CC BY-SA 2.0
-All images are verbatim copies.
+
+**Note:** _All images are verbatim copies._

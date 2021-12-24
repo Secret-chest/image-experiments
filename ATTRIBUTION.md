@@ -15,7 +15,7 @@ Attribution for images used:
 * Dietmar Rabich / Wassertropfen -- 2021 -- 8024 / CC BY-SA 4.0
 * Charles J. Sharp / African grass blue (Zizeeria knysna) male Principe / CC BY-SA 4.0
 
-**Note:** _All images are verbatim copies._
+**Note:** _All images, unless otherwise noted, are verbatim copies._
 
 ### Licenses
 CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/

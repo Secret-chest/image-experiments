@@ -5,7 +5,7 @@ viewImages = False
 
 # Open image
 with Image.open(image) as inputImage:
-    # Reduce to 256 colors
+    # Reduce to 216 colors
     ditheringOnImage = inputImage.convert("P")
     # Save
     ditheringOnImage.save("VGA/vgaDitheringOn.png")

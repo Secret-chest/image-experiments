@@ -29,7 +29,7 @@ with Image.open(image) as inputImage:
         ImageShow.show(blurredImage3, "More Gaussian blur")
 
     # Filter
-    blurredImage4 = inputImage.filter(ImageFilter.BoxBlur(4))
+    blurredImage4 = inputImage.filter(ImageFilter.BoxBlur(3))
     # Save
     blurredImage4.save("blur/boxBlur.png")
 
@@ -37,7 +37,7 @@ with Image.open(image) as inputImage:
         ImageShow.show(blurredImage4, "Box blur")
 
     # Filter
-    blurredImage5 = inputImage.filter(ImageFilter.BoxBlur(8))
+    blurredImage5 = inputImage.filter(ImageFilter.BoxBlur(6))
     # Save
     blurredImage5.save("blur/boxBlurExtra.png")
 

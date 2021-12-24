@@ -1,7 +1,7 @@
 # image-experiments
 Image experiments made with Pillow
 
-* randomImages.py - generate with the given resolution:
+* randomImages.py - generate, with the given resolution:
   * randomColors.bmp - random RGB (True Color) pixels
   * randomGrayscale.bmp - random grayscale pixels
   * randomColorAlpha.png - random RGB pixels with alpha (transparency)
@@ -20,7 +20,8 @@ Image experiments made with Pillow
   * boxBlurExtra.png - more box blur
   * gaussianBlur.png - Gaussian blur
   * gaussianBlurExtra.png - more Gaussian blur
+* upscale.py - upscale image to 4x size using various algorithms
 
-Each script generates files in a directory with the same name, to avoid flooding the root directory.
+Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
 
 For photo attribution, check the ATTRIBUTION.md file.

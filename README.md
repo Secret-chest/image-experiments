@@ -22,6 +22,10 @@ Image experiments made with Pillow
   * gaussianBlurExtra.png - more Gaussian blur
 * upscale.py - upscale image to 4x size using various algorithms
 * convert.py - convert to various file formats
+* hell.py - make all colors hot
+* heaven.py - recolor image to a sky-blue shade
+* greenIntensify.py - intensify and optimize green hues, useful for images with vegetation.
+* blueIntensify.py - intensify blue shades, making sky and water bluer.
 
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
 

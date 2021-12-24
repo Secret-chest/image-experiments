@@ -21,6 +21,7 @@ Image experiments made with Pillow
   * gaussianBlur.png - Gaussian blur
   * gaussianBlurExtra.png - more Gaussian blur
 * upscale.py - upscale image to 4x size using various algorithms
+* convert.py - convert to various file formats
 
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
 

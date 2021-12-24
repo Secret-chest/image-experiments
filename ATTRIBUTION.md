@@ -6,5 +6,6 @@ Attribution for images used:
 * King of Hearts / Brooklyn Botanic Garden New York May 2015 / CC BY-SA 3.0
 * Matt Kieffer / Chicago skyline at night from 360 Chicago observation deck / CC BY-SA 2.0
 * Kevin Gill / Saturn - September 28 2006 / CC BY-SA 2.0
+* NASA / View of Earth / Public domain
 
 **Note:** _All images are verbatim copies._

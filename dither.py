@@ -1,5 +1,6 @@
-from PIL import Image, ImageShow, ImagePalette
-image = "sampleImages/BotanicGarden.jpg"
+from PIL import Image, ImageShow
+
+image = "sampleImages/Chicago.jpg"
 viewImages = False
 
 # Open image

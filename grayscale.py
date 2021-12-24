@@ -11,4 +11,4 @@ with Image.open(image) as inputImage:
     grayscaleImage.save("grayscale/grayscale.png")
 
     if viewImages:
-        ImageShow.show(grayscaleImage, "Dithering on")
+        ImageShow.show(grayscaleImage, "Grayscale")

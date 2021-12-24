@@ -1,6 +1,6 @@
 from PIL import Image, ImageShow, ImageFilter
 
-image = "sampleImages/BotanicGarden.jpg"
+image = "sampleImages/saturn.jpg"
 viewImages = False
 
 with Image.open(image) as inputImage:

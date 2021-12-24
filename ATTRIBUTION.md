@@ -8,5 +8,16 @@ Attribution for images used:
 * Kevin Gill / Saturn - September 28 2006 / CC BY-SA 2.0
 * NASA / View of Earth / Public domain
 * ? / S5001234 / CC BY-SA 3.0
+* US Army / Presidio of Monterey aerial view / Public domain
+* NASA / View of Earth / Public domain
+* Charles J. Sharp / Scintillant hummingbird (Selasphorus scintilla) female in flight 2 / CC BY-SA 4.0
+* Basile Morin / Green paddy fields and karst mountains at sunset with clouds in Vang Vieng Laos / CC BY-SA 4.0
+* Dietmar Rabich / Wassertropfen -- 2021 -- 8024 / CC BY-SA 4.0
+* Charles J. Sharp / African grass blue (Zizeeria knysna) male Principe / CC BY-SA 4.0
 
 **Note:** _All images are verbatim copies._
+
+### Licenses
+CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/
+CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
+CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/

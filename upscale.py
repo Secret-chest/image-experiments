@@ -1,6 +1,6 @@
 from PIL import Image, ImageShow
 
-image = "sampleImages/Butterfly.jpg"
+image = "sampleImages/Dahlia.jpg"
 viewImages = True
 
 with Image.open(image) as inputImage:

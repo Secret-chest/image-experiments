@@ -59,7 +59,6 @@ Image experiments made with Pillow
 
 * sharpen.py/smooth.py - sharpen/smooth image contours
 
-
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
 
 For photo attribution, check the ATTRIBUTION.md file.

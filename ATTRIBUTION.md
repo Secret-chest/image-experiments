@@ -20,7 +20,7 @@ Attribution for images used:
 * Fir0002 / Raspberries05 / GFDL 1.2
 * Joe Ravi / Mandarin Oranges (Citrus reticulata) / CC BY-SA 3.0
 
-**Note:** _All images, unless otherwise noted, are verbatim copies._
+**Note:** _All images, unless otherwise noted, are unmodified copies._
 
 ### Licenses
 CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/

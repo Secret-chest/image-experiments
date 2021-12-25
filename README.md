@@ -48,7 +48,7 @@ Image experiments made with Pillow
 
 <img src="https://user-images.githubusercontent.com/74449186/147382463-a6f8b0b2-f982-4704-be1f-70c6dec1006f.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382501-cc51880e-6b72-4940-a420-42d50fa221af.png" height=300px>
 
-* sharpen.py/smooth.py - sharpen/smooth image contours
+* sharpen.py/smooth.py - sharpen/smooth image contours.
 
 
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.

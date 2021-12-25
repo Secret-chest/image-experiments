@@ -26,6 +26,7 @@ Image experiments made with Pillow
 * heaven.py - recolor image to a sky-blue shade
 * greenIntensify.py - intensify and optimize green hues, useful for images with vegetation.
 * blueIntensify.py - intensify blue shades, making sky and water bluer.
+* aqua.py - makes images look underwater.
 
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
 

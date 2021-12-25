@@ -14,6 +14,11 @@ Attribution for images used:
 * Basile Morin / Green paddy fields and karst mountains at sunset with clouds in Vang Vieng Laos / CC BY-SA 4.0
 * Dietmar Rabich / Wassertropfen -- 2021 -- 8024 / CC BY-SA 4.0
 * Charles J. Sharp / African grass blue (Zizeeria knysna) male Principe / CC BY-SA 4.0
+* Basile Morin / Green hill in mist and rice sheaves scattered in a paddy field during the monsoon in Vang Vieng Laos / CC BY-SA 4.0
+* BRPever / Garden Dahlia flower / CC BY-SA 4.0
+* George Chernilevsky / Apple-tree blossoms 2017 G3 / Public domain
+* Fir0002 / Raspberries05 / GFDL 1.2
+* Joe Ravi / Mandarin Oranges (Citrus reticulata) / CC BY-SA 3.0
 
 **Note:** _All images, unless otherwise noted, are verbatim copies._
 
@@ -23,3 +28,5 @@ CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/
 CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
 
 CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+GFDL 1.2 - https://www.gnu.org/licenses/old-licenses/fdl-1.2.html

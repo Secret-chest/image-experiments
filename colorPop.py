@@ -1,11 +1,12 @@
 from PIL import Image, ImageDraw, ImageShow
 from colorsys import rgb_to_hls, hls_to_rgb
 
-image = "sampleImages/Butterfly.jpg"
-viewImages = False
-colorHues = [(0, 78), (179, 251)]
-colorLightness = (0, 100)
-backgroundMode = "grayscale"  # you can change this to "transparent"
+image = "sampleImages/Clementines.jpg"
+viewImages = True
+colorHues = [(0, 179)]
+colorLightness = (0, 80)
+colorSaturation = (3, 100)
+backgroundMode = "transparent"  # you can change this to "transparent" or "grayscale"
 
 # Open image
 with Image.open(image) as inputImage:
@@ -24,11 +25,12 @@ with Image.open(image) as inputImage:
                 # get hue and lightness in full integer format
                 hue = round(rgb_to_hls(r / 255, g / 255, b / 255)[0] * 360)
                 lightness = round(rgb_to_hls(r / 255, g / 255, b / 255)[1] * 100)
+                saturation = round(rgb_to_hls(r / 255, g / 255, b / 255)[2] * 360)
 
                 # assume we don't draw the color, most pixels won't be colored
                 drawColor = False
 
-                if colorLightness[0] < lightness < colorLightness[1]:
+                if colorLightness[0] < lightness < colorLightness[1] and colorSaturation[0] < saturation < colorSaturation[1]:
                     for colorHue in colorHues:
                         if colorHue[0] > colorHue[1]:
                             if colorHue[0] < hue or hue < colorHue[1]:
@@ -60,11 +62,12 @@ with Image.open(image) as inputImage:
                 # get hue and lightness in full integer format
                 hue = round(rgb_to_hls(r / 255, g / 255, b / 255)[0] * 360)
                 lightness = round(rgb_to_hls(r / 255, g / 255, b / 255)[1] * 100)
+                saturation = round(rgb_to_hls(r / 255, g / 255, b / 255)[2] * (100 / 3.6))
 
                 # assume we don't draw the color, most pixels won't be colored
                 drawColor = False
 
-                if colorLightness[0] < lightness < colorLightness[1]:
+                if colorLightness[0] < lightness < colorLightness[1] and colorSaturation[0] < saturation < colorSaturation[1]:
                     for colorHue in colorHues:
                         if colorHue[0] > colorHue[1]:
                             if colorHue[0] < hue or hue < colorHue[1]:

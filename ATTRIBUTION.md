@@ -23,6 +23,8 @@ Attribution for images used:
 **Note:** _All images, unless otherwise noted, are unmodified copies._
 
 ### Licenses
+CC0-1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+
 CC BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/
 
 CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/

@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageShow
 from colorsys import rgb_to_hls, hls_to_rgb
 
 image = "sampleImages/Clementines.jpg"
-viewImages = True
+viewImages = False
 colorHues = [(0, 179)]
 colorLightness = (0, 80)
 colorSaturation = (3, 100)

@@ -1,7 +1,7 @@
 from PIL import Image, ImageShow
 
 image = "sampleImages/Dahlia.jpg"
-viewImages = True
+viewImages = False
 
 with Image.open(image) as inputImage:
     # Get size

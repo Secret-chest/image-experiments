@@ -5,9 +5,17 @@ viewImages = False
 
 with Image.open(image) as inputImage:
     # Filter
+    sharpenedImage = inputImage.filter(ImageFilter.SHARPEN)
+    # Save
+    sharpenedImage.save("sharpenSmooth/sharpened.png")
+
+    if viewImages:
+        ImageShow.show(sharpenedImage, "Sharpened")
+
+    # Filter
     smoothedImage = inputImage.filter(ImageFilter.SMOOTH)
     # Save
-    smoothedImage.save("smooth/smoothed.png")
+    smoothedImage.save("sharpenSmooth/smoothed.png")
 
     if viewImages:
         ImageShow.show(smoothedImage, "Smoothed")
@@ -15,7 +23,7 @@ with Image.open(image) as inputImage:
     # Filter
     smoothedImage2 = inputImage.filter(ImageFilter.SMOOTH_MORE)
     # Save
-    smoothedImage2.save("smooth/smoothedExtra.png")
+    smoothedImage2.save("sharpenSmooth/smoothedExtra.png")
 
     if viewImages:
         ImageShow.show(smoothedImage2, "More smoothed")

@@ -78,7 +78,7 @@ with Image.open(image) as inputImage:
                 if drawColor:
                     draw.point((x, y), (r, g, b))
 
-        transparentImage.save("colorPop/popTransparent.png")
+        transparentImage.save("colorPop/pop.png")
 
         if viewImages:
             ImageShow.show(transparentImage, "Transparent color pop")

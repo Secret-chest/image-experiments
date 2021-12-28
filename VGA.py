@@ -13,7 +13,7 @@ with Image.open(image) as inputImage:
     if viewImages:
         ImageShow.show(ditheringOnImage, "Dithering on")
 
-    # Reduce to 256 colors
+    # Reduce to 216 colors
     ditheringOffImage = inputImage.convert("P", dither=Image.NONE)
     # Save
     ditheringOffImage.save("VGA/vgaDitheringOff.png")

@@ -19,19 +19,11 @@ Image experiments made with Pillow
 
 <img src="https://user-images.githubusercontent.com/74449186/147381635-10dcadc9-3cd5-4de8-b59f-7022754e9016.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147381637-539c7192-4622-4e96-8d0d-c9679c40b8c4.png" height=300px>
 
-* sketch.py - generate:
-  * sketch1.png - contour image with no line cleanup
-  * sketch2.png - contour image with moderate line cleanup
-  * sketch3.png - contour image with high line cleanup
+* sketch.py - contour the image, line cleanup can be changed
 
 <img src="https://user-images.githubusercontent.com/74449186/147382030-87b65957-ddcc-44f2-ad00-17b78511d3e9.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147381978-1b0a2672-7047-42ef-a3b2-cf9c49839c3f.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147381984-bed4d7df-e82c-4e8b-91fe-4faf4d167377.png" height=300px> <img src=https://user-images.githubusercontent.com/74449186/147381993-57c9a1a6-ac97-42d7-8dde-2047d8f4ffee.png height=300px>
 
-* blur.py - generate:
-  * normalBlur.png - default harsh blur
-  * boxBlur.png - box blur
-  * boxBlurExtra.png - more box blur
-  * gaussianBlur.png - Gaussian blur
-  * gaussianBlurExtra.png - more Gaussian blur
+* blur.py - generate a blurred copy of the image, blur radius and algorithm can be changed
 
 <img src="https://user-images.githubusercontent.com/74449186/147382060-237299f2-d843-4a0f-87c4-405d225b205e.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382114-8b04ebff-44a5-4e65-8b2a-8187fc737214.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382185-d7a27e4c-6b18-4989-bd4e-3aa7ae1627ef.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382208-77e20d45-6ebd-4417-bde1-91c9cdf9cd0b.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382236-e52d8a6d-939a-4cf9-a5a3-b59012f18437.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382254-295e3e54-c849-440e-8b39-cf8a0223fb39.png" height=300px>
 

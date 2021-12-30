@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageShow
 
-image = "sampleImages/BotanicGarden.jpg"
+image = "sampleImages/Hills2.jpg"
 viewImages = False
 
 # Open image

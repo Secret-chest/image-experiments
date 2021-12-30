@@ -1,7 +1,7 @@
 from PIL import Image
 from pathlib import Path
 
-image = "sampleImages/AutunTheatreRomain.jpg"
+image = "sampleImages/Raspberries.jpg"
 
 with Image.open(image) as inputImage:
     originalName = Path(image).stem

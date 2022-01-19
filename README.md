@@ -49,7 +49,7 @@ Image experiments made with Pillow
 
 <img src="https://user-images.githubusercontent.com/74449186/147382463-a6f8b0b2-f982-4704-be1f-70c6dec1006f.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147382501-cc51880e-6b72-4940-a420-42d50fa221af.png" height=300px>
 
-* sharpen.py/smooth.py - sharpen/smooth image contours
+* sharpenSmooth.py - sharpen/smooth image contours
 * colorPop.py - make pixels not in the set color range grayscale or transparent.
 
 <img src="https://user-images.githubusercontent.com/74449186/147392168-6373f343-4c8f-43fb-a002-8474f1075e50.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147392141-a91b60c9-c1d1-4bff-a353-ad241c84e0af.png" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147392526-cb76b045-1998-41d3-83e7-b33014b06db0.jpg" height=300px> <img src="https://user-images.githubusercontent.com/74449186/147392540-edc3fbce-b4a2-46f3-b46a-9a890c4ca262.png" height=300px>

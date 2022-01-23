@@ -65,47 +65,47 @@ Image experiments made with Pillow
                                                                                 
                                                                                 
                                                                                 
-                                       (#`                                      
-                           ``           #        `                              
-                 ,                      0-                                      
-                                        #^                                      
-                        `' , , -        1   ~-  -!'                             
-                      '%~/                .  .`'/*         ;                    
-                         /! |1=.;u#, '-###iii(###,  `~0\<                        
-                         ;###########=\<####_^|1########-                        
-                           ##########################1                          
-      @1   .       _=*`'1#^###########################+%:'...!% -!*             
-     _.  ,##~`     _^^,./;\<####################0%u#####/!*^^~.'.*&(##|;';|     `
--,,, 0#|0###%#%####################################################%###!`' `%`.&
-|!-'^1[#|####=-=[|0\<0##################################@u##0###%\<':-##[ .   ~   
-@@[%####&##%:'_,,,/#[    .######1#^########0^+#%@#####_         +:\<u##u%@%u(/i=^
-i####0#########0000##%i=;^#################[&i#####uu##*_@##**!=//+##0######@[#0
-=##@0##+|\<1[0##&@%0i;^/!i+1:+###1##0|0*###= `:|##i   ,!`.~#+:#%@,,,+\<*!|##0:~~- 
+                                       1W`                                      
+                           ``           W        `                              
+                 ,                      #-                                      
+                                        W^                                      
+                        `' , , -        (   ~-  -!'                             
+                      '2~/                .  .`'/*         ;                    
+                         /! |(=.;@W, '-WWWiii1WWW,  `~#<                        
+                         ;WWWWWWWWWWW=<WWWW_^|(WWWWWWWW-                        
+                           WWWWWWWWWWWWWWWWWWWWWWWWWW(                          
+      &(   .       _=*`'(W^WWWWWWWWWWWWWWWWWWWWWWWWWWW+2:'...!2 -!*             
+     _.  ,WW~`     _^^,./;<WWWWWWWWWWWWWWWWWWWW#2@WWWWW/!*^^~.'.*01WW|;';|     `
+-,,, #W|#WWW2W2WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW2WWW!`' `2`.0
+|!-'^(%W|WWWW=-=%|#<#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW&@WW#WWW2<':-WW% .   ~   
+&&%2WWWW0WW2:'_,,,/W%    .WWWWWW(W^WWWWWWWW#^+W2&WWWWW_         +:<@WW@2&2@1/i=^
+iWWWW#WWWWWWWWW####WW2i=;^WWWWWWWWWWWWWWWWW%0iWWWWW@@WW*_&WW**!=//+WW#WWWWWW&%W#
+=WW&#WW+|<(%#WW0&2#i;^/!i+(:+WWW(WW#|#*WWW= `:|WWi   ,!`.~W+:W2&,,,+<*!|WW#:~~- 
 ```
 
 ```text
-################################################################################
-################################################################################
-################################################################################
-################################################################################
-################################################################################
-################################################################################
-#######################################: 0######################################
-###########################00########### ########0##############################
-#################%######################`u######################################
-######################################## =######################################
-########################0@#%#%#u########;###iu##u<@#############################
-######################@,i|################&##&0@|+#########1####################
-#########################|<#/;^&1- %#@u   ~~~:   %##0i`!########################
-#########################1           ^!    [=/;        u########################
-###########################                          ;##########################
-######';###&#######[^+0@; =                           *,(@&&&<,#u<+#############
-#####[&##%  i0#####[==%&|1!                    `,-     |<+==i&@&+.:  /1@1/#####0
-u%%%#` /`   , ,                                                    ,   <0@#0,0&.
-/<u@=;_ /    ^u^_/`!`                                  '-  `   ,!@(u  _#&###i###
-''_,    .  ,(@[%%%| _####&      ; =        `=* ,'     [#########*(!-  -,',-:|~^=
-~    `         ````  ,~^1=                 _.~     --  +['  ++<^||*  `      '_ `
-^  '`  */!;_`  .',`~1=|<~*;(*   ;  `/`+   ^#0(/  ~###%<0&i *( ,'%%%*!+</  `(iiu#
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW: #WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW##WWWWWWWWWWW WWWWWWWW#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWW2WWWWWWWWWWWWWWWWWWWWWW`@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW =WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWW#&W2W2W@WWWWWWWW;WWWi@WW@<&WWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWW&,i|WWWWWWWWWWWWWWWW0WW0#&|+WWWWWWWWW(WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWW|<W/;^0(- 2W&@   ~~~:   2WW#i`!WWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWW(           ^!    %=/;        @WWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWW                          ;WWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWW';WWW0WWWWWWW%^+#&; =                           *,1&000<,W@<+WWWWWWWWWWWWW
+WWWWW%0WW2  i#WWWWW%==20|(!                    `,-     |<+==i0&0+.:  /(&(/WWWWW#
+@222W` /`   , ,                                                    ,   <#&W#,#0.
+/<@&=;_ /    ^@^_/`!`                                  '-  `   ,!&1@  _W0WWWiWWW
+''_,    .  ,1&%222| _WWWW0      ; =        `=* ,'     %WWWWWWWWW*1!-  -,',-:|~^=
+~    `         ````  ,~^(=                 _.~     --  +%'  ++<^||*  `      '_ `
+^  '`  */!;_`  .',`~(=|<~*;1*   ;  `/`+   ^W#1/  ~WWW2<#0i *1 ,'222*!+</  `1ii@W
 ```
 
 Each script generates files in a directory with the same name as the script, to avoid flooding the root directory.
